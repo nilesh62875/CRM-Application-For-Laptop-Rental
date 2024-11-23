@@ -7,31 +7,44 @@ LapTrack CRM is a tailored Customer Relationship Management (CRM) application fo
 **Key Features**
 
 Customer Management: Centralizes customer data, including contact details and rental history, to provide personalized services.
+
 Laptop Inventory Management: Tracks availability, specifications, and condition of laptops, helping manage stock and avoid overbooking.
+
 Order and Rental Management: Automates booking, agreements, and invoicing, reducing errors and enhancing operational flow.
+
 Reporting and Analytics: Generates detailed insights on trends, inventory usage, and revenue for data-driven decisions.
+
 Communication Tools: Sends automated email and SMS notifications for bookings, reminders, and promotions.
 
 **Objectives**
 
 Automate rental processes to save time and reduce errors.
+
 Enhance customer experience with personalized services and easy access to rental details.
+
 Improve revenue through analytics and trend identification.
+
 Strengthen communication using automated notifications.
 
 **Benefits**
-
 Time and Cost Savings: Automates repetitive tasks, optimizing workflows.
+
 Enhanced Customer Management: Centralizes data for better marketing and support.
+
 Accurate Reporting: Provides insights for decision-making and inventory optimization.
+
 Error Reduction: Minimizes manual input errors in operations.
 
 **Example Workflow**
 
 Customer Registration & Booking: Customers create accounts, browse inventory, and book rentals.
+
 Payment & Confirmation: Secure payment and invoicing are automated.
+
 Inventory Assignment: Laptops are assigned for delivery or pickup.
+
 Monitoring & Notifications: Automated reminders ensure timely returns.
+
 Returns & Feedback: Inventory is updated upon return, and feedback is collected.
 
 **Salesforce Integration**
