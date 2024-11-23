@@ -27,6 +27,7 @@ Improve revenue through analytics and trend identification.
 Strengthen communication using automated notifications.
 
 **Benefits**
+
 Time and Cost Savings: Automates repetitive tasks, optimizing workflows.
 
 Enhanced Customer Management: Centralizes data for better marketing and support.
@@ -52,10 +53,15 @@ Returns & Feedback: Inventory is updated upon return, and feedback is collected.
 The project leverages Salesforce features, including:
 
 Sales Cloud: Automates sales workflows.
+
 Service Cloud: Handles customer support.
+
 Marketing Cloud: Facilitates targeted campaigns.
+
 Einstein Analytics: Delivers AI-driven insights.
+
 Custom Development: Supports unique workflows.
+
 Reports and Dashboards: Enables data visualization for KPIs and trends.
 
 **Conclusion**
